@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Krish Munjapara
 
-<!--
-**krish-munjapara/Krish-Munjapara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🤖 AI Enthusiast
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech CSE (4th Year)
+* 🔥 Building real-world AI & Web projects
+* 📈 Currently learning: React + AI integration
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Languages: Python, JavaScript
+* 🌐 Web: HTML, CSS, React, Flask
+* 🧠 AI/ML: Pandas, Scikit-learn
+* 🛢️ DB: MySQL,mongoDB
+
+---
+
+## 🔥 Projects
+
+* 🤖 AI Missing Child Detection System
+* 💻 Full Stack Web App (Coming Soon)
+* 📊 ML Project (Coming Soon)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: (your link)
+* Email: (your email)
