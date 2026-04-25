@@ -36,27 +36,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krish-munjapara&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krish-munjapara&theme=radical" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
-* 🔗 LinkedIn: (your link)
-* 📧 Email: (your email)
+* 🔗 LinkedIn: (www.linkedin.com/in/krish-munjapara)
+* 📧 Email: (munjaparakrish25@gmail.com)
 
----
 
-⭐ “Consistency + Projects = Success”
